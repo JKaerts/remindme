@@ -26,7 +26,7 @@ Hello, these are your reminders for today:
 * Mom has a birthday in 1 day(s)
 ```
 
-I habe configured Python's csv-parser to ignore whitespace following commas
+I have configured Python's csv-parser to ignore whitespace following commas
 so you can organize your csv as follows for better readability:
 
 ```
